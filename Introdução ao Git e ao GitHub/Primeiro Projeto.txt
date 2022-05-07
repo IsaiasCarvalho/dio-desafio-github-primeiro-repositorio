@@ -1,6 +1,6 @@
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::
 INTRODUÇÃO AO GIT E GITHUB (DIO BOOTCAMP)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::
 
 Nesse curso tive uma introducao para utilizacao do (Git e o Github)
 
@@ -9,7 +9,7 @@ O que e o Git?: Git e um sistema de controle de versões de arquivos
 O que e o GitHub?: GitHub e um servidor baseado em nuvem local onde hospeda as versoes de arquivos do Git
 
 Utilizei alguns comandos interessantes para criar, manusear pastas e arquivos do Git para o GitHub
-::::::::::::::::::::::::::::::SAO ELES::::::::::::::::::::::::::::::
+:::::::::::::::::::::::SAO ELES:::::::::::::::::::::::
 
 1-Comando para criacao de pasta: (mkdir)
 2-Comando para introducao de pasta: (cd)
